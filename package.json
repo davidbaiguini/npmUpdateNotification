@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/davidbaiguini/npmUpdateNotifictions#readme",
   "dependencies": {
-    "create-react-app": "^1.5.0"
+    "create-react-app": "^3.3.0"
   }
 }
